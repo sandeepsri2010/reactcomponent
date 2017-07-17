@@ -1,2 +1,0 @@
-# reactcomponent
-Icon dropdown component
